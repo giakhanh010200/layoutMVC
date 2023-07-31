@@ -1,0 +1,12 @@
+<?php
+class News{
+    
+    function main(){
+        echo "???? mainN ???";
+    }
+    
+    function sub(){
+        echo "???? subN ???";
+    }
+}
+?>
